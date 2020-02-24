@@ -1,6 +1,7 @@
 # Go Buildpack Changelog
 
 ## Unreleased
+* Update shunit2
 
 ## v137 (2020-02-19)
 * Add go1.12.15 and go1.12.16
